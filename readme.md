@@ -5,3 +5,5 @@
 #### [Video Preview](misc/demo.MP4)
 
 - Feel free to download and tweak as you like
+
+Article link: https://towardsdatascience.com/create-ml-deploy-the-model-to-an-ios-app-f52e5b62ab09
